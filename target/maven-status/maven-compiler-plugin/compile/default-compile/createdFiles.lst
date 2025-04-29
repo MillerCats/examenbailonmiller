@@ -1,0 +1,7 @@
+dao\UsuarioJpaController.class
+dao\exceptions\NonexistentEntityException.class
+dto\Usuario.class
+servlet\LoginUser.class
+dto\Usuario_.class
+dao\exceptions\PreexistingEntityException.class
+dao\exceptions\IllegalOrphanException.class
